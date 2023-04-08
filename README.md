@@ -1,0 +1,2 @@
+# Stopwatch
+Simple stopwatch overlay
