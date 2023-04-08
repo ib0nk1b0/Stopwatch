@@ -1,0 +1,17 @@
+C:\Dev\RunescapeTimer\RunescapeTimer\bin\Debug\net6.0-windows\RunescapeTimer.exe
+C:\Dev\RunescapeTimer\RunescapeTimer\bin\Debug\net6.0-windows\RunescapeTimer.deps.json
+C:\Dev\RunescapeTimer\RunescapeTimer\bin\Debug\net6.0-windows\RunescapeTimer.runtimeconfig.json
+C:\Dev\RunescapeTimer\RunescapeTimer\bin\Debug\net6.0-windows\RunescapeTimer.dll
+C:\Dev\RunescapeTimer\RunescapeTimer\bin\Debug\net6.0-windows\RunescapeTimer.pdb
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.csproj.AssemblyReference.cache
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.Form1.resources
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.csproj.GenerateResource.cache
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.AssemblyInfoInputs.cache
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.AssemblyInfo.cs
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.csproj.CoreCompileInputs.cache
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.dll
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\refint\RunescapeTimer.dll
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.pdb
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\RunescapeTimer.genruntimeconfig.cache
+C:\Dev\RunescapeTimer\RunescapeTimer\obj\Debug\net6.0-windows\ref\RunescapeTimer.dll
