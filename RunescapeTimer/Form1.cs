@@ -39,6 +39,7 @@ namespace RunescapeTimer
         {
             InitializeComponent();
             this.TopMost = true;
+            this.Text = "Timer";
             _stopwatch = new Stopwatch();
             _timer = new System.Timers.Timer(1);
             _timer.Elapsed += OnTimerElapse;
@@ -82,7 +83,7 @@ namespace RunescapeTimer
 
         private void label2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
 
         private void label3_Click(object sender, EventArgs e)

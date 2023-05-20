@@ -43,7 +43,7 @@
             button1.BackColor = Color.FromArgb(0, 192, 0);
             button1.FlatStyle = FlatStyle.Popup;
             button1.ForeColor = Color.LightGoldenrodYellow;
-            button1.Location = new Point(30, 108);
+            button1.Location = new Point(12, 90);
             button1.Name = "button1";
             button1.Size = new Size(61, 40);
             button1.TabIndex = 0;
@@ -56,7 +56,7 @@
             button2.BackColor = Color.Red;
             button2.FlatStyle = FlatStyle.Popup;
             button2.ForeColor = Color.LightGoldenrodYellow;
-            button2.Location = new Point(122, 108);
+            button2.Location = new Point(95, 90);
             button2.Name = "button2";
             button2.Size = new Size(61, 40);
             button2.TabIndex = 1;
@@ -69,7 +69,7 @@
             button3.BackColor = Color.Black;
             button3.FlatStyle = FlatStyle.Popup;
             button3.ForeColor = Color.LightGoldenrodYellow;
-            button3.Location = new Point(206, 108);
+            button3.Location = new Point(177, 90);
             button3.Name = "button3";
             button3.Size = new Size(61, 40);
             button3.TabIndex = 2;
@@ -79,12 +79,13 @@
             // 
             // label1
             // 
+            label1.AllowDrop = true;
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 36F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Font = new Font("Segoe UI", 27.75F, FontStyle.Regular, GraphicsUnit.Point);
             label1.ForeColor = Color.LightGoldenrodYellow;
-            label1.Location = new Point(12, 25);
+            label1.Location = new Point(12, 30);
             label1.Name = "label1";
-            label1.Size = new Size(292, 65);
+            label1.Size = new Size(226, 50);
             label1.TabIndex = 3;
             label1.Text = "00:00:00.000";
             // 
@@ -95,28 +96,28 @@
             // 
             // label3
             // 
-            label3.AutoSize = true;
             label3.BackColor = Color.Red;
             label3.Cursor = Cursors.Hand;
-            label3.Location = new Point(270, 0);
+            label3.Location = new Point(220, 0);
             label3.Margin = new Padding(0);
             label3.Name = "label3";
-            label3.Size = new Size(12, 15);
+            label3.Size = new Size(15, 15);
             label3.TabIndex = 7;
             label3.Text = "-";
+            label3.TextAlign = ContentAlignment.TopCenter;
             label3.Click += label3_Click;
             // 
             // label2
             // 
-            label2.AutoSize = true;
             label2.BackColor = Color.Red;
             label2.Cursor = Cursors.Hand;
-            label2.Location = new Point(284, 0);
+            label2.Location = new Point(235, 0);
             label2.Margin = new Padding(0);
             label2.Name = "label2";
-            label2.Size = new Size(13, 15);
+            label2.Size = new Size(15, 15);
             label2.TabIndex = 8;
             label2.Text = "x";
+            label2.TextAlign = ContentAlignment.TopRight;
             label2.Click += label2_Click;
             // 
             // Form1
@@ -124,7 +125,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(4, 18, 27);
-            ClientSize = new Size(299, 164);
+            ClientSize = new Size(250, 156);
             ControlBox = false;
             Controls.Add(label2);
             Controls.Add(label3);
